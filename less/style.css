@@ -1,0 +1,11 @@
+body {
+  background-color: wheat;
+}
+.menu ul {
+  display: flex;
+  flex-direction: row;
+  color: black;
+}
+.menu ul li {
+  row-gap: 20px;
+}
